@@ -24,8 +24,7 @@
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
 </p>
  
- 
-[![Gajendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gajsa&count_private=true&include_all_commits&show_icons=true&theme=radical)](https://github.com/Gajsa/github-readme-stats)
+
 
 
 <!---
